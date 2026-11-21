@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/v1.0.1/LevenhertzMusic-Setup.exe",
-  "sha256": "1f206cbe36c8fc4a345fd05cbc2abcd82374bf10f0e4e03590db3891ccdbbae7",
-  "signature": "Yekwb5WTAX02WPSQVhok7Yiwh4NZhoTpQP/bu+NU02mniooOKPkSoS4qNgFakUdpV6u4RYhUZ+NQ1UmmUruIBg==",
-  "notes": "תיקון שם הזמר, לוגו חדש והעתקה לכרטיס זיכרון"
+  "version": "1.1.0",
+  "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/v1.1.0/LevenhertzMusic-Setup.exe",
+  "sha256": "2d43871b19035f085d01dffa4d7e95097816f96b6b8c992a14e803fb115b86f2",
+  "signature": "2xH0PBlzTFfe+rVVwNJqELMuDbAGFbHKIcqDzu89ZFLTefN23NWBeBgdQHC0I+Rjj3rigXYtPy7e/UMLnkSBAw==",
+  "notes": "מערכת מנויים, חסימות, מכסות והודעות מהמנהל"
 }
