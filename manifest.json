@@ -6,5 +6,13 @@
   "rollout": 100,
   "paused": false,
   "signature2": "Mk4ZreGNEontBpmzSV4MKxHwo8fys+2YxvjIArBng3DKi+j1+UsLjQ66K5b19RWTpeyQmaQyD0KFBX196jqhAw==",
-  "notes": "מה חדש, מעקב אחרי ערוץ, הורדת טווח, עדכון שקט לכלי ההורדה, דוח בעיה ועוד"
+  "notes": "מה חדש, מעקב אחרי ערוץ, הורדת טווח, עדכון שקט לכלי ההורדה, דוח בעיה ועוד",
+  "code": {
+    "version": "1.1.2.1",
+    "base": "1.1.2",
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.2.1/code-1.1.2.1.zip",
+    "sha256": "32f1c925a2d1a4556055e9d0adb1100d6acea4117b6aa566cf9a625e21b1f0a5",
+    "signature": "J5IkESTrMG58mNFnj2I+w3aYghwNLJK/3Vhyl8YtMoreDXuDc0HTZD2xu9cHBjsAfFjXO24L2hFdx4fwQ+nyAg==",
+    "notes": "בדיקת עדכון קטן ראשון, בלי שינוי למשתמש"
+  }
 }
