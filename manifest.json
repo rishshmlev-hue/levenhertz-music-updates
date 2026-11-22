@@ -8,11 +8,26 @@
   "signature2": "P1vM+p4qrDI0eTrSMjHgwEGsnVNGlt3ub7nnuy5sQYz3feUJrimP9xH/Mgud6QZi2yPGdJfzeQociLPcojYwAA==",
   "notes": "עדכונים קטנים ושקטים: מעכשיו שינוי קטן בתוכנה מגיע בקובץ קטן, בלי התקנה. בדיקת עדכון עכשיו ומה התעדכן, וחזרה לגרסה הקודמת.",
   "code": {
-    "version": "1.1.2.1",
+    "version": "1.1.2.2",
     "base": "1.1.2",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.2.1/code-1.1.2.1.zip",
-    "sha256": "32f1c925a2d1a4556055e9d0adb1100d6acea4117b6aa566cf9a625e21b1f0a5",
-    "signature": "J5IkESTrMG58mNFnj2I+w3aYghwNLJK/3Vhyl8YtMoreDXuDc0HTZD2xu9cHBjsAfFjXO24L2hFdx4fwQ+nyAg==",
-    "notes": "בדיקת עדכון קטן ראשון, בלי שינוי למשתמש"
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.2.2/code-1.1.2.2.zip",
+    "sha256": "239692dc5a2c7a3b68801ce526d9ec15006140b1a168da092637c2521b0f30e1",
+    "signature": "NK1KEufexGLG5D3SYze5gjADpX7R/EAabHAsjnW6fXtqFD9EEfcGd34kUbqWrWRdsGAMuiFn5SZaQaoYZSDIDg==",
+    "notes": "המשך מאותה נקודה בהרצאות ארוכות. כפתור ניסיון חוזר לכל ההורדות שנכשלו. אזהרה כשנשאר מעט מקום בדיסק. תזכורת חצי שעה לפני כניסת שבת וחג."
+  },
+  "ui": {
+    "version": "1.1.2.2",
+    "min_app": "1.1.2",
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.2.2/ui-1.1.2.2.zip",
+    "sha256": "9a727be8583e3824d6572277b4f3e15313c7792934e2b3d1f5f2a91a810d954b",
+    "signature": "pLCTEyhnjclWMuFqWEEWEQjqczfkkCccyLtUD3dJuRFM37PtFbWvk8tsx5rgUqlnoEkpHMZGZlcEV3sj6zBTDw==",
+    "delta": {
+      "version": "1.1.2.2",
+      "min_app": "1.1.2",
+      "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.2.2/ui-1.1.2.2-from-1.1.2.zip",
+      "sha256": "e47088efd3a6d2dfe8f2c74bc030ce231f2a450d50b7c2b8a0bd128d1f879044",
+      "signature": "eTZezqjTOlF7tEmmRPi8sCpIGGLWilFeeBCjjowacaoTEKoC973MonlFhDHY784OIcCCw4pKQg6lddoR08+LDw==",
+      "base": "1.1.2"
+    }
   }
 }
