@@ -1,10 +1,10 @@
 {
   "version": "1.1.1",
   "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/v1.1.1/LevenhertzMusic-Setup.exe",
-  "sha256": "c86c6c6625036fc2cf93270c4d5ec9bdde5e9bfd8fa72c7058b4b5292d91edaa",
-  "signature": "1BH5VE/9BbOd7pGq4/MMLT4Sb5RG4wfX9/H6AOjCQmt5wSO9AO4BCi0qErhmTZLx8f9My5ChTXsQeL1EjlciAg==",
+  "sha256": "0dc186408fb02759c41f0d57479307456aa18946d33de58eb153367897a381c2",
+  "signature": "Q+9HIUibyQ1KhNdezTrYSsiR2EgqfDDrBk0lW7wYZ0Fb+ERfLeCfuzEhJTzOcCiRDIlz+bzNm8hZ5biGqSFHCQ==",
   "rollout": 100,
   "paused": false,
-  "signature2": "fQ0UQUZhUJaA2rTEcGrtLzPr1vJFlTnVDud2hy+5d75J0zH6KCkT8unfzp5+VLV1fCG6ykRFXI8DE+L3a+p1CQ==",
+  "signature2": "Mk4ZreGNEontBpmzSV4MKxHwo8fys+2YxvjIArBng3DKi+j1+UsLjQ66K5b19RWTpeyQmaQyD0KFBX196jqhAw==",
   "notes": "מה חדש, מעקב אחרי ערוץ, הורדת טווח, עדכון שקט לכלי ההורדה, דוח בעיה ועוד"
 }
