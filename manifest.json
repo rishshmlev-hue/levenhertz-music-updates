@@ -8,25 +8,25 @@
   "signature2": "P1vM+p4qrDI0eTrSMjHgwEGsnVNGlt3ub7nnuy5sQYz3feUJrimP9xH/Mgud6QZi2yPGdJfzeQociLPcojYwAA==",
   "notes": "עדכונים קטנים ושקטים: מעכשיו שינוי קטן בתוכנה מגיע בקובץ קטן, בלי התקנה. בדיקת עדכון עכשיו ומה התעדכן, וחזרה לגרסה הקודמת.",
   "code": {
-    "version": "1.1.2.2",
+    "version": "1.1.2.3",
     "base": "1.1.2",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.2.2/code-1.1.2.2.zip",
-    "sha256": "239692dc5a2c7a3b68801ce526d9ec15006140b1a168da092637c2521b0f30e1",
-    "signature": "NK1KEufexGLG5D3SYze5gjADpX7R/EAabHAsjnW6fXtqFD9EEfcGd34kUbqWrWRdsGAMuiFn5SZaQaoYZSDIDg==",
-    "notes": "המשך מאותה נקודה בהרצאות ארוכות. כפתור ניסיון חוזר לכל ההורדות שנכשלו. אזהרה כשנשאר מעט מקום בדיסק. תזכורת חצי שעה לפני כניסת שבת וחג."
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.2.3/code-1.1.2.3.zip",
+    "sha256": "1d0500dc756c5aa4ead52b44fa60ab3cda7a5d9ec5afe747e0d3ebb35576372e",
+    "signature": "7II4NM9HXAEEprYn6ozmA0cjh3CKyLNfg1D+nmBKrpdFhlpqNUH0vqEc2Ov/X9RGvJ7yj7OsWY1i/BeSo6TeAQ==",
+    "notes": "מחיקה וסימון שירים בכל רשימה, מסך ערוצים עם ביטול מעקב, היסטוריה עם פתיחת קובץ, שמירת מצב בין מסכים, וסינון ראיונות וקטעים קצרים בהורדה אוטומטית."
   },
   "ui": {
-    "version": "1.1.2.2",
+    "version": "1.1.2.3",
     "min_app": "1.1.2",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.2.2/ui-1.1.2.2.zip",
-    "sha256": "9a727be8583e3824d6572277b4f3e15313c7792934e2b3d1f5f2a91a810d954b",
-    "signature": "pLCTEyhnjclWMuFqWEEWEQjqczfkkCccyLtUD3dJuRFM37PtFbWvk8tsx5rgUqlnoEkpHMZGZlcEV3sj6zBTDw==",
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.2.3/ui-1.1.2.3.zip",
+    "sha256": "b902bd538b19775c20ac5e3568d8f92d62b2fe24a6b561c203fc388370625ec5",
+    "signature": "On+sTOLA6nlsIOZLCE75s82NjNaG+5vkuNIDKzoViYy7ihrz9bnT7RoO0qrYcSXld6k2rpLqDH/kh75y9pxzCQ==",
     "delta": {
-      "version": "1.1.2.2",
+      "version": "1.1.2.3",
       "min_app": "1.1.2",
-      "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.2.2/ui-1.1.2.2-from-1.1.2.zip",
-      "sha256": "e47088efd3a6d2dfe8f2c74bc030ce231f2a450d50b7c2b8a0bd128d1f879044",
-      "signature": "eTZezqjTOlF7tEmmRPi8sCpIGGLWilFeeBCjjowacaoTEKoC973MonlFhDHY784OIcCCw4pKQg6lddoR08+LDw==",
+      "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.2.3/ui-1.1.2.3-from-1.1.2.zip",
+      "sha256": "62152bbffa4625f8505817a6072f4a7d44d39dfa5495d3b468f680a2d8f4b64c",
+      "signature": "jBzmwxgjeTS+TuFxGWrqc0v1vFqFQKSPf5qFftPuhOzahDf4TSwSmbJFQ38a7EGKKXf1djIDlWHFBQSJTNG7Dw==",
       "base": "1.1.2"
     }
   }
