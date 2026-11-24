@@ -16,10 +16,10 @@
     "notes": "החלון כבר לא נתקע: בדיקת עדכון וההפעלה מחדש אחרי איקס רצות מהתוכנה עצמה, ומשמר מפעיל מחדש חלון שלא מגיב."
   },
   "ui": {
-    "version": "1.1.3.3",
+    "version": "1.1.3.4",
     "min_app": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.3/ui-1.1.3.3.zip",
-    "sha256": "4da392adeb648697d4ebdc7e7ac9df946ff487638bdd5f0f62c1be9923e93844",
-    "signature": "LHeUxZrhZm/6o2qToCGg6o7wtXiBK5S3N5m74rUmNoZPtYtk8kj/tP9bFt3G1Hl7M+rQk+ElV2hvXgeQah+cDA=="
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.4/ui-1.1.3.4.zip",
+    "sha256": "4be8f4f0a29d973b7f8bb54a633245d0cd7f2cf89fb32131dffa0d4185ae7d0f",
+    "signature": "IQtI8zQ8FHC3cyq4QUUhCY0YYY3sWRcx5vFjYUGeOAdUHWTtE6SoW7TCgo4cuPcwd6aZG4/c7uXAhIHFyryOBQ=="
   }
 }
