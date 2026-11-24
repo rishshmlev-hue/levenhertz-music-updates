@@ -8,12 +8,12 @@
   "signature2": "rlrLyqoFwkjwKE0MGfIwtyQsumWxDNUtvSmaxWmCTdYFadI0wp0U7F5E3IVO1NG1gJXgbUQFZXvikQF/c/d7AA==",
   "notes": "שיפורים ותיקונים כלליים.",
   "code": {
-    "version": "1.1.3.3",
+    "version": "1.1.3.4",
     "base": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.3/code-1.1.3.3.zip",
-    "sha256": "ef8d76a8ae2668840212c6bc1a5dd0366bc3d33d594ff0f87e64cba504307f7c",
-    "signature": "iwN1VaB9Xew0joUgB4CrDXtV1RgqGf37eiom7ucXrZkuc8g9dD/J6107SojMnb87uzfZImQHyr8cMDlRObSwCQ==",
-    "notes": "תמונות ומילים לשירים שהועברו מהמחשב מגיעות לבד ברקע (תוקן באג שמנע זאת), והצמדת החלון לצד המסך הופכת לנגן מיני בצורה מדויקת"
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.4/code-1.1.3.4.zip",
+    "sha256": "297e89cb46f22a3cd252d22eb4cf84a3d3cde5149ec5401227d93dd2dff95231",
+    "signature": "EAsUq0/DdPTLgj78eVhK3cVIa2sca/6N6bf/lrQaQhwFMfXbDyvfK+wbKbRKwzznIb9EIfXNYQD5fWHO/4sPAQ==",
+    "notes": "החלון כבר לא נתקע: בדיקת עדכון וההפעלה מחדש אחרי איקס רצות מהתוכנה עצמה, ומשמר מפעיל מחדש חלון שלא מגיב."
   },
   "ui": {
     "version": "1.1.3.3",
