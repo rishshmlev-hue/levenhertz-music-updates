@@ -1,12 +1,12 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/v1.1.2/LevenhertzMusic-Setup.exe",
-  "sha256": "971e0066f37a505db70463b79128eb638e9e735ae55ba2c71ef7276b566a1b2f",
-  "signature": "Vv7nrWOjguTdrskVBUrMwxqLlsNuIPhWJPm643xCNqk6gW8CJTY2v0mr3PC8X5nYP8bMagvF7Jb7leWPCSiKBg==",
+  "version": "1.1.3",
+  "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/v1.1.3/LevenhertzMusic-Setup.exe",
+  "sha256": "97378794a2fd73c318bbd8568254f2f602a9183ec880deab48c3a73b84611148",
+  "signature": "d7nbAcOajWWZ43vtdZ2na3y1dNA6xA6TxzDy20Goosf9qyY2EW4VWAiUGlwGvV7z6zfB1UDXBCbh4B6u0dL7Bg==",
   "rollout": 100,
   "paused": false,
-  "signature2": "P1vM+p4qrDI0eTrSMjHgwEGsnVNGlt3ub7nnuy5sQYz3feUJrimP9xH/Mgud6QZi2yPGdJfzeQociLPcojYwAA==",
-  "notes": "עדכונים קטנים ושקטים: מעכשיו שינוי קטן בתוכנה מגיע בקובץ קטן, בלי התקנה. בדיקת עדכון עכשיו ומה התעדכן, וחזרה לגרסה הקודמת.",
+  "signature2": "rlrLyqoFwkjwKE0MGfIwtyQsumWxDNUtvSmaxWmCTdYFadI0wp0U7F5E3IVO1NG1gJXgbUQFZXvikQF/c/d7AA==",
+  "notes": "שיפורים ותיקונים כלליים.",
   "code": {
     "version": "1.1.2.5",
     "base": "1.1.2",
