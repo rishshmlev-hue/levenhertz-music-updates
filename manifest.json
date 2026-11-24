@@ -8,18 +8,18 @@
   "signature2": "rlrLyqoFwkjwKE0MGfIwtyQsumWxDNUtvSmaxWmCTdYFadI0wp0U7F5E3IVO1NG1gJXgbUQFZXvikQF/c/d7AA==",
   "notes": "שיפורים ותיקונים כלליים.",
   "code": {
-    "version": "1.1.3.2",
+    "version": "1.1.3.3",
     "base": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.2/code-1.1.3.2.zip",
-    "sha256": "08f3a114fdc913ac10eedf43e5d59827c404d615072165b0b6488dd4ff135ab6",
-    "signature": "eIGj1Z3MfzY78InTFo8MSoNFdtxe1XaL4M2UWfP2upGZ78/tSXqVgw06pAWNAwtGYbi6osOwSR8tv1rtyC2gBA==",
-    "notes": "תמונות ומילים לשירים שנוספו מהמחשב, עדכון קטן שקט, תמונות לערוצים שנרשמתם אליהם, סימון רשומים בחיפוש, עצירה וביטול הורדה, והאזנה לפני הורדה עם וידאו"
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.3/code-1.1.3.3.zip",
+    "sha256": "ef8d76a8ae2668840212c6bc1a5dd0366bc3d33d594ff0f87e64cba504307f7c",
+    "signature": "iwN1VaB9Xew0joUgB4CrDXtV1RgqGf37eiom7ucXrZkuc8g9dD/J6107SojMnb87uzfZImQHyr8cMDlRObSwCQ==",
+    "notes": "תמונות ומילים לשירים שהועברו מהמחשב מגיעות לבד ברקע (תוקן באג שמנע זאת), והצמדת החלון לצד המסך הופכת לנגן מיני בצורה מדויקת"
   },
   "ui": {
-    "version": "1.1.3.2",
+    "version": "1.1.3.3",
     "min_app": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.2/ui-1.1.3.2.zip",
-    "sha256": "3d86cc8d4bf59e102cf9ed16f1a94c4b2610d7017d77d5e028acd253e85521c5",
-    "signature": "FvFpoKoUdT5o4UCpxRXKiIAQ8+xpXIeaEwxgQWORs7igyfv3+5ce9Ezvzlx1Rf4UQp5sKJnGxge6mzcGbZCMCA=="
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.3/ui-1.1.3.3.zip",
+    "sha256": "4da392adeb648697d4ebdc7e7ac9df946ff487638bdd5f0f62c1be9923e93844",
+    "signature": "LHeUxZrhZm/6o2qToCGg6o7wtXiBK5S3N5m74rUmNoZPtYtk8kj/tP9bFt3G1Hl7M+rQk+ElV2hvXgeQah+cDA=="
   }
 }
