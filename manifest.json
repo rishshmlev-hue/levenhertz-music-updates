@@ -8,26 +8,18 @@
   "signature2": "rlrLyqoFwkjwKE0MGfIwtyQsumWxDNUtvSmaxWmCTdYFadI0wp0U7F5E3IVO1NG1gJXgbUQFZXvikQF/c/d7AA==",
   "notes": "שיפורים ותיקונים כלליים.",
   "code": {
-    "version": "1.1.3.1",
+    "version": "1.1.3.2",
     "base": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.1/code-1.1.3.1.zip",
-    "sha256": "e990706804a3c4799ed3f8ec97b8b8ca0f4514e9aef137d39cab6e9effd4ce90",
-    "signature": "H1SEPQ6ShwVQVnl2nC5P5bAHHCu345IOYQrdclW2+kei3JIf7/+YEJNr7BzKIehQkXvEXNKph9icZnwURNX8Bw==",
-    "notes": "תיקון קטן: חלון 'התוכנה נתקלה בבעיה' כבר לא קופץ בגלל הודעה בלתי מזיקה של הדפדפן"
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.2/code-1.1.3.2.zip",
+    "sha256": "08f3a114fdc913ac10eedf43e5d59827c404d615072165b0b6488dd4ff135ab6",
+    "signature": "eIGj1Z3MfzY78InTFo8MSoNFdtxe1XaL4M2UWfP2upGZ78/tSXqVgw06pAWNAwtGYbi6osOwSR8tv1rtyC2gBA==",
+    "notes": "תמונות ומילים לשירים שנוספו מהמחשב, עדכון קטן שקט, תמונות לערוצים שנרשמתם אליהם, סימון רשומים בחיפוש, עצירה וביטול הורדה, והאזנה לפני הורדה עם וידאו"
   },
   "ui": {
-    "version": "1.1.2.5",
-    "min_app": "1.1.2",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.2.5/ui-1.1.2.5.zip",
-    "sha256": "02b1eacc675f69356d4a55eb5908a352954b60b645787616d94982d2bc682c6d",
-    "signature": "tOM0wd3k4XFPOQ/6+QFpOpDuA2Xj4mhqWFx1defPA0u5+laya1fU/Vu8ZJXVYSDpactJMjyDCJmEUrDUeW9oDg==",
-    "delta": {
-      "version": "1.1.2.5",
-      "min_app": "1.1.2",
-      "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.2.5/ui-1.1.2.5-from-1.1.2.zip",
-      "sha256": "922d792b32169be422adf6b5789bbdf4f6c96673a0f834bc3679de136a118582",
-      "signature": "lnvUp6Eh1ZcJL3TN5E03pVEYDGlW02LPyJ6uBwteFzSzT0uvm3NIO6lipuUFOglphnngMaO17x9+DVEIROXOAw==",
-      "base": "1.1.2"
-    }
+    "version": "1.1.3.2",
+    "min_app": "1.1.3",
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.2/ui-1.1.3.2.zip",
+    "sha256": "3d86cc8d4bf59e102cf9ed16f1a94c4b2610d7017d77d5e028acd253e85521c5",
+    "signature": "FvFpoKoUdT5o4UCpxRXKiIAQ8+xpXIeaEwxgQWORs7igyfv3+5ce9Ezvzlx1Rf4UQp5sKJnGxge6mzcGbZCMCA=="
   }
 }
