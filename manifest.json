@@ -8,12 +8,12 @@
   "signature2": "rlrLyqoFwkjwKE0MGfIwtyQsumWxDNUtvSmaxWmCTdYFadI0wp0U7F5E3IVO1NG1gJXgbUQFZXvikQF/c/d7AA==",
   "notes": "שיפורים ותיקונים כלליים.",
   "code": {
-    "version": "1.1.2.5",
-    "base": "1.1.2",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.2.5/code-1.1.2.5.zip",
-    "sha256": "a050f784ec0023619d25d5619d1d4e5bdccda86bf2a258800206359476d6dc7b",
-    "signature": "iKhIlfTPsWHF5XYDgPhwCPLtCCqQWwq9rMmwKr239jOU33LyicgrJmuuDCLLfsYAg/DddKMvT/6inDbko+m3AQ==",
-    "notes": "נעילה עד תשלום (כבויה עד שהמנהל מפעיל), תיקון הודעת שגיאה מיותרת"
+    "version": "1.1.3.1",
+    "base": "1.1.3",
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.1/code-1.1.3.1.zip",
+    "sha256": "e990706804a3c4799ed3f8ec97b8b8ca0f4514e9aef137d39cab6e9effd4ce90",
+    "signature": "H1SEPQ6ShwVQVnl2nC5P5bAHHCu345IOYQrdclW2+kei3JIf7/+YEJNr7BzKIehQkXvEXNKph9icZnwURNX8Bw==",
+    "notes": "תיקון קטן: חלון 'התוכנה נתקלה בבעיה' כבר לא קופץ בגלל הודעה בלתי מזיקה של הדפדפן"
   },
   "ui": {
     "version": "1.1.2.5",
