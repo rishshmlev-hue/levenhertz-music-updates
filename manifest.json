@@ -8,18 +8,18 @@
   "signature2": "rlrLyqoFwkjwKE0MGfIwtyQsumWxDNUtvSmaxWmCTdYFadI0wp0U7F5E3IVO1NG1gJXgbUQFZXvikQF/c/d7AA==",
   "notes": "שיפורים ותיקונים כלליים.",
   "code": {
-    "version": "1.1.3.6",
+    "version": "1.1.3.7",
     "base": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.6/code-1.1.3.6.zip",
-    "sha256": "da222af3ec193272eb24a4e43ae63655596b3163ce05dfd3218912000bd0894d",
-    "signature": "7MGgeqTCJctvCSifS8qnmAC7w2dPOCJRTdz1g1GNcaiu2e/AwRprVptMOOL7yLkJDmUV+XgBHpxAeQmrG2piBQ==",
-    "notes": "הורדה מהירה יותר, כפולים עם אפשרות להשאיר את הקבצים, רשימת הערוצים בראש הדף, וחיפוש חוזר של מילים שלא נמצאו."
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.7/code-1.1.3.7.zip",
+    "sha256": "d27f265285edf810661727984617809791d35fbce37697c622bad3a680a5dee6",
+    "signature": "NuZvG38oNq4YcP/dspR7orjrTQXuYyyDrgkrjO/f/ZF7xtxgeawlKprMEOaejyNte83rYZB4cDFnP9KCxFRxBw==",
+    "notes": "אימות המייל חובה: מקלידים קוד בן 6 ספרות שנשלח למייל. אפשר להחליף כתובת שגויה."
   },
   "ui": {
-    "version": "1.1.3.6",
+    "version": "1.1.3.7",
     "min_app": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.6/ui-1.1.3.6.zip",
-    "sha256": "623e7fc436c3f43dc40a34d8271203da7898dba4c64bbf51e567601df973ba65",
-    "signature": "SgFayxV2Z2AMrGi9U3bvb91sbjYPWauU7KAQVEjmzqg++ol9KiAoGkNIXuG7oY9tenQsZ5j1Z9RIQBDGTckgBQ=="
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.7/ui-1.1.3.7.zip",
+    "sha256": "7d890782395edf532aaec47e356391c96f9201e01135f69be46c3af09335a6a3",
+    "signature": "t3Z5vuaw6aRemupgyIciNU7H3Dxx0RnWLTHEWbrPFT9YjG/mA/RrSrv6kfM1q9Zh6z+ZejrX4Msx6H1aWs5qDQ=="
   }
 }
