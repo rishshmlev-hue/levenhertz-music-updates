@@ -8,18 +8,18 @@
   "signature2": "rlrLyqoFwkjwKE0MGfIwtyQsumWxDNUtvSmaxWmCTdYFadI0wp0U7F5E3IVO1NG1gJXgbUQFZXvikQF/c/d7AA==",
   "notes": "שיפורים ותיקונים כלליים.",
   "code": {
-    "version": "1.1.3.5",
+    "version": "1.1.3.6",
     "base": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.5/code-1.1.3.5.zip",
-    "sha256": "8365bafd363a98c275807213a95aa41379df243968f05bd594d6b95f0ed18248",
-    "signature": "EWTcHpbxI0Pmx0qxMk3yRnGeAcsqSJ2SV5m0XjlI3+o3vfDjQcwS3uHHM1MiooW/20LuaD5V9U+f7D7qY8feBQ==",
-    "notes": "משמר חלון תקוע מהיר יותר, ניגון בלבד לחשבון חסום, פס עדכון עם עדכון עכשיו, תיקון ערבוב, תמונות מחנות חינמית, הורדת עדכון גם בזמן שיר."
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/code-1.1.3.6/code-1.1.3.6.zip",
+    "sha256": "da222af3ec193272eb24a4e43ae63655596b3163ce05dfd3218912000bd0894d",
+    "signature": "7MGgeqTCJctvCSifS8qnmAC7w2dPOCJRTdz1g1GNcaiu2e/AwRprVptMOOL7yLkJDmUV+XgBHpxAeQmrG2piBQ==",
+    "notes": "הורדה מהירה יותר, כפולים עם אפשרות להשאיר את הקבצים, רשימת הערוצים בראש הדף, וחיפוש חוזר של מילים שלא נמצאו."
   },
   "ui": {
-    "version": "1.1.3.5",
+    "version": "1.1.3.6",
     "min_app": "1.1.3",
-    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.5/ui-1.1.3.5.zip",
-    "sha256": "f91b9caf97a7f8db90d1ffdb01573a42ee6d2bc291148d5d8e85256ec391eaa4",
-    "signature": "HySDhL6uobgKB6i/HXmmEmWhxSXEOJQsyylIur0NLxJgrDCtoJCYpDyWKDS+qIVVG58G3GCuXCsyHssWr/f7DQ=="
+    "url": "https://github.com/rishshmlev-hue/levenhertz-music-updates/releases/download/ui-1.1.3.6/ui-1.1.3.6.zip",
+    "sha256": "623e7fc436c3f43dc40a34d8271203da7898dba4c64bbf51e567601df973ba65",
+    "signature": "SgFayxV2Z2AMrGi9U3bvb91sbjYPWauU7KAQVEjmzqg++ol9KiAoGkNIXuG7oY9tenQsZ5j1Z9RIQBDGTckgBQ=="
   }
 }
